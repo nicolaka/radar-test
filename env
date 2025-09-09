@@ -1,11 +1,16 @@
+# Secrets Stored in Vault KV
 username="nico"
 password="insecure-password-123"
+# PII
 ssn="123-45-6789"
 DOB="01/01/1990"
+
+# Builtin Common Secret Types
 some-secret=gho_1111111aG1hoYxtGHcPrkL74J1XfAkEtOXXX
 vercel_auth_token=bEtcHqbrrhtoMhW7jek9FDLT
 VERCEL_TOKEN=sGvPA8KM9yKA6ogZMWxoXXX
 aws_cred=g4fEPvwN2+2kT8omL4ieFqgVj4xLWx40PxNmXXX
+
 MTIzLTQ1LTY3ODk=
 
 
